@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "Hello, world!"
 
-echo "Time is $(date), #8."
+echo "Time is $(date), #9."
